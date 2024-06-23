@@ -1,15 +1,8 @@
 ![](https://raw.githubusercontent.com/Mehedi2509/mehedi2509/main/mehedi-banner.png)
 
-I am a MERN Stack Developer with 2+ years of
-
-experience in React. I have a strong foundation in front-
-end & back-end development and am skilled in creating
-
-user-friendly and responsive web applications using
-React. In addition to my technical skills, I am a strong
-communicator and team player besides excited to
-continue growing as a developer and making meaningful
-contributions to projects and teams.
+Hello! I'm MD MEHEDI HASAN,
+a passionate Front-End web developer and i love taking challenges of solving various problems with different approach. 
+I build responsive user-friendly websites that look visually appealing, with nice and fluid interactions, close attention to User Experience, and are accessible to the visually impaired.
 
 
 
