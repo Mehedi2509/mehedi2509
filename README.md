@@ -21,7 +21,5 @@ close attention to User Experience, and are accessible to the visually impaired.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2509)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi2509&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedi2509)  
 
