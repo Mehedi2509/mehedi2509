@@ -1,8 +1,15 @@
 ![](https://raw.githubusercontent.com/Mehedi2509/mehedi2509/main/mehedi-banner.png)
 
+
+
 Hello! I'm MD MEHEDI HASAN,
-a passionate Front-End web developer and i love taking challenges of solving various problems with different approach. 
-I build responsive user-friendly websites that look visually appealing, with nice and fluid interactions, close attention to User Experience, and are accessible to the visually impaired.
+a passionate Front-End web developer 
+and i love taking challenges of solving various problems 
+with different approach. I build responsive user-friendly websites 
+that look visually appealing, with nice and fluid interactions, 
+close attention to User Experience, and are accessible to the visually impaired.
+
+
 
 
 
