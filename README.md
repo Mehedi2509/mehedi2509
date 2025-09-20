@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Mehedi2509/mehedi2509/main/mehedi-banner.png)
+![](https://raw.githubusercontent.com/Mehedi2509/mehedi2509/main/Mehedi%20Hasan%20Parvez%20Cover%20Photo.png)
 
 # 💫 About Me:
 Hello! I'm MD MEHEDI HASAN,<br>a passionate Front-End web developer <br>and i love taking challenges of solving various problems <br>with different approach. I build responsive user-friendly websites <br>that look visually appealing, with nice and fluid interactions, <br>close attention to User Experience, and are accessible to the visually impaired.
